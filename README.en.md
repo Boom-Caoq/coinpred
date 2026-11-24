@@ -42,6 +42,11 @@ Public, illustrated documentation for [Coinpred](https://coinpred.com), written 
 | Event-contract forecasts | [docs/en/event-contracts.md](docs/en/event-contracts.md) | [docs/zh/event-contracts.md](docs/zh/event-contracts.md) |
 | When analysis is more usable, and when you should not place an order | [docs/en/decision.md](docs/en/decision.md) | [docs/zh/decision.md](docs/zh/decision.md) |
 
+English method notes are in [docs/articles](docs/articles/README.md). They can be read on GitHub, and each one links back to the original on coinpred.com:
+
+- [A Coin Flip Is the Baseline I Use Before I Trust Any Bitcoin Call](docs/articles/how-to-predict-bitcoin-price-direction.md)
+- [I Stopped Fading Every RSI 70 Print. This Is the Daily Habit I Use Instead](docs/articles/how-to-use-rsi-crypto.md)
+
 ## Keep these systems separate
 
 Coinpred ships several independent tools. Their inputs, outputs, and published track records are not interchangeable:
