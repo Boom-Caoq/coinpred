@@ -44,6 +44,11 @@
 | 事件合约预测 | [docs/zh/event-contracts.md](docs/zh/event-contracts.md) | [docs/en/event-contracts.md](docs/en/event-contracts.md) |
 | 什么情况下分析更可参考，什么情况下不该下单 | [docs/zh/decision.md](docs/zh/decision.md) | [docs/en/decision.md](docs/en/decision.md) |
 
+英文方法笔记在 [docs/articles](docs/articles/README.md)，可在 GitHub 上直接阅读，文末链回 coinpred.com 原文：
+
+- [A Coin Flip Is the Baseline I Use Before I Trust Any Bitcoin Call](docs/articles/how-to-predict-bitcoin-price-direction.md)
+- [I Stopped Fading Every RSI 70 Print. This Is the Daily Habit I Use Instead](docs/articles/how-to-use-rsi-crypto.md)
+
 ## 先分清三套东西，不要混用胜率
 
 Coinpred 里至少有三套彼此独立的能力。它们的数据来源、输出含义和有没有公开战绩都不一样：
